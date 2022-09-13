@@ -1,0 +1,1 @@
+console.log("JavaScript successfully loaded on page index.html");

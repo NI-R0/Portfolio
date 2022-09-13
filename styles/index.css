@@ -1,0 +1,21 @@
+.header{
+    min-height: 10vh;
+    min-width: 90vw;
+    background-color: black;
+    text-align: center;
+}
+.main .section{
+    min-width: 90vw;
+    min-height: 100vh;
+}
+
+.h2{
+    background-color: white;
+    color: white;
+}
+
+.footer{
+    min-height: 10vh;
+    min-width: 90vw;
+    background-color: red;
+}
